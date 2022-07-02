@@ -1,0 +1,33 @@
+ul{
+    list-style-type: none;
+   
+}
+
+span{
+    color: red;
+    cursor: pointer;
+   /*  border: 1px solid red; */
+}
+
+#list li:first-child{
+    margin-top: 30px;
+   
+} 
+.modal_open{
+    display: block;
+    top: 100px;
+  margin-left: 30%;
+  margin-top: 20%;
+    width: 30%;
+    text-align: center;
+}
+#active-counter{
+    border: solid blue;
+    width: 40px;
+    text-align: center;
+    font-size: xx-large;
+    color: blue;
+   margin-top: 5%;
+}
+
+
